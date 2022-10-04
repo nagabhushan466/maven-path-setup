@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1664864255,,"wq"
+|2,0,1664868603,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,42 @@
 # Registers:
 
 # File marks:
-'0  24  0  ~/tomcat-roles.txt
-|4,48,24,0,1664864255,"~/tomcat-roles.txt"
-'1  22  54  /opt/tomcat/webapps/manager/META-INF/context.xml
-|4,49,22,54,1664864050,"/opt/tomcat/webapps/manager/META-INF/context.xml"
-'2  22  54  /opt/tomcat/webapps/host-manager/META-INF/context.xml
-|4,50,22,54,1664863988,"/opt/tomcat/webapps/host-manager/META-INF/context.xml"
-'3  65  0  /opt/tomcat/conf/tomcat-users.xml
-|4,51,65,0,1664863903,"/opt/tomcat/conf/tomcat-users.xml"
+'0  24  13  ~/maven-path-setup.txt
+|4,48,24,13,1664868603,"~/maven-path-setup.txt"
+'1  24  0  ~/tomcat-roles.txt
+|4,49,24,0,1664864255,"~/tomcat-roles.txt"
+'2  22  54  /opt/tomcat/webapps/manager/META-INF/context.xml
+|4,50,22,54,1664864050,"/opt/tomcat/webapps/manager/META-INF/context.xml"
+'3  22  54  /opt/tomcat/webapps/host-manager/META-INF/context.xml
+|4,51,22,54,1664863988,"/opt/tomcat/webapps/host-manager/META-INF/context.xml"
+'4  65  0  /opt/tomcat/conf/tomcat-users.xml
+|4,52,65,0,1664863903,"/opt/tomcat/conf/tomcat-users.xml"
 
 # Jumplist (newest first):
+-'  24  13  ~/maven-path-setup.txt
+|4,39,24,13,1664868603,"~/maven-path-setup.txt"
+-'  1  0  ~/maven-path-setup.txt
+|4,39,1,0,1664868579,"~/maven-path-setup.txt"
 -'  24  0  ~/tomcat-roles.txt
 |4,39,24,0,1664864255,"~/tomcat-roles.txt"
+-'  24  0  ~/tomcat-roles.txt
+|4,39,24,0,1664864255,"~/tomcat-roles.txt"
+-'  1  0  ~/tomcat-roles.txt
+|4,39,1,0,1664864223,"~/tomcat-roles.txt"
 -'  1  0  ~/tomcat-roles.txt
 |4,39,1,0,1664864223,"~/tomcat-roles.txt"
 -'  22  54  /opt/tomcat/webapps/manager/META-INF/context.xml
 |4,39,22,54,1664864050,"/opt/tomcat/webapps/manager/META-INF/context.xml"
 -'  22  54  /opt/tomcat/webapps/manager/META-INF/context.xml
 |4,39,22,54,1664864050,"/opt/tomcat/webapps/manager/META-INF/context.xml"
+-'  22  54  /opt/tomcat/webapps/manager/META-INF/context.xml
+|4,39,22,54,1664864050,"/opt/tomcat/webapps/manager/META-INF/context.xml"
+-'  22  54  /opt/tomcat/webapps/manager/META-INF/context.xml
+|4,39,22,54,1664864050,"/opt/tomcat/webapps/manager/META-INF/context.xml"
+-'  1  0  /opt/tomcat/webapps/manager/META-INF/context.xml
+|4,39,1,0,1664864022,"/opt/tomcat/webapps/manager/META-INF/context.xml"
+-'  1  0  /opt/tomcat/webapps/manager/META-INF/context.xml
+|4,39,1,0,1664864022,"/opt/tomcat/webapps/manager/META-INF/context.xml"
 -'  1  0  /opt/tomcat/webapps/manager/META-INF/context.xml
 |4,39,1,0,1664864022,"/opt/tomcat/webapps/manager/META-INF/context.xml"
 -'  1  0  /opt/tomcat/webapps/manager/META-INF/context.xml
@@ -55,6 +73,22 @@
 |4,39,22,54,1664863988,"/opt/tomcat/webapps/host-manager/META-INF/context.xml"
 -'  22  54  /opt/tomcat/webapps/host-manager/META-INF/context.xml
 |4,39,22,54,1664863988,"/opt/tomcat/webapps/host-manager/META-INF/context.xml"
+-'  22  54  /opt/tomcat/webapps/host-manager/META-INF/context.xml
+|4,39,22,54,1664863988,"/opt/tomcat/webapps/host-manager/META-INF/context.xml"
+-'  22  54  /opt/tomcat/webapps/host-manager/META-INF/context.xml
+|4,39,22,54,1664863988,"/opt/tomcat/webapps/host-manager/META-INF/context.xml"
+-'  22  54  /opt/tomcat/webapps/host-manager/META-INF/context.xml
+|4,39,22,54,1664863988,"/opt/tomcat/webapps/host-manager/META-INF/context.xml"
+-'  22  54  /opt/tomcat/webapps/host-manager/META-INF/context.xml
+|4,39,22,54,1664863988,"/opt/tomcat/webapps/host-manager/META-INF/context.xml"
+-'  1  0  /opt/tomcat/webapps/host-manager/META-INF/context.xml
+|4,39,1,0,1664863949,"/opt/tomcat/webapps/host-manager/META-INF/context.xml"
+-'  1  0  /opt/tomcat/webapps/host-manager/META-INF/context.xml
+|4,39,1,0,1664863949,"/opt/tomcat/webapps/host-manager/META-INF/context.xml"
+-'  1  0  /opt/tomcat/webapps/host-manager/META-INF/context.xml
+|4,39,1,0,1664863949,"/opt/tomcat/webapps/host-manager/META-INF/context.xml"
+-'  1  0  /opt/tomcat/webapps/host-manager/META-INF/context.xml
+|4,39,1,0,1664863949,"/opt/tomcat/webapps/host-manager/META-INF/context.xml"
 -'  1  0  /opt/tomcat/webapps/host-manager/META-INF/context.xml
 |4,39,1,0,1664863949,"/opt/tomcat/webapps/host-manager/META-INF/context.xml"
 -'  1  0  /opt/tomcat/webapps/host-manager/META-INF/context.xml
@@ -79,6 +113,38 @@
 |4,39,65,0,1664863903,"/opt/tomcat/conf/tomcat-users.xml"
 -'  65  0  /opt/tomcat/conf/tomcat-users.xml
 |4,39,65,0,1664863903,"/opt/tomcat/conf/tomcat-users.xml"
+-'  65  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,65,0,1664863903,"/opt/tomcat/conf/tomcat-users.xml"
+-'  65  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,65,0,1664863903,"/opt/tomcat/conf/tomcat-users.xml"
+-'  65  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,65,0,1664863903,"/opt/tomcat/conf/tomcat-users.xml"
+-'  65  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,65,0,1664863903,"/opt/tomcat/conf/tomcat-users.xml"
+-'  65  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,65,0,1664863903,"/opt/tomcat/conf/tomcat-users.xml"
+-'  65  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,65,0,1664863903,"/opt/tomcat/conf/tomcat-users.xml"
+-'  65  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,65,0,1664863903,"/opt/tomcat/conf/tomcat-users.xml"
+-'  65  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,65,0,1664863903,"/opt/tomcat/conf/tomcat-users.xml"
+-'  1  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,1,0,1664863817,"/opt/tomcat/conf/tomcat-users.xml"
+-'  1  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,1,0,1664863817,"/opt/tomcat/conf/tomcat-users.xml"
+-'  1  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,1,0,1664863817,"/opt/tomcat/conf/tomcat-users.xml"
+-'  1  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,1,0,1664863817,"/opt/tomcat/conf/tomcat-users.xml"
+-'  1  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,1,0,1664863817,"/opt/tomcat/conf/tomcat-users.xml"
+-'  1  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,1,0,1664863817,"/opt/tomcat/conf/tomcat-users.xml"
+-'  1  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,1,0,1664863817,"/opt/tomcat/conf/tomcat-users.xml"
+-'  1  0  /opt/tomcat/conf/tomcat-users.xml
+|4,39,1,0,1664863817,"/opt/tomcat/conf/tomcat-users.xml"
 -'  1  0  /opt/tomcat/conf/tomcat-users.xml
 |4,39,1,0,1664863817,"/opt/tomcat/conf/tomcat-users.xml"
 -'  1  0  /opt/tomcat/conf/tomcat-users.xml
@@ -97,6 +163,13 @@
 |4,39,1,0,1664863817,"/opt/tomcat/conf/tomcat-users.xml"
 
 # History of marks within files (newest to oldest):
+
+> ~/maven-path-setup.txt
+	*	1664868600	0
+	"	24	13
+	^	24	14
+	.	24	13
+	+	24	13
 
 > ~/tomcat-roles.txt
 	*	1664864252	0

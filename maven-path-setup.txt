@@ -1,0 +1,24 @@
+1. Download maven under /opt folder 
+	cd /opt
+2. Copy maven tar file path under webpage and download in open folder
+	sudo wget https://dlcdn.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.tar.gz
+3. Untar the file 
+	sudo tar -zxvf "tar file name"
+4. Change untared file name by
+	sudo mv "old file name" "new file name as maven"
+Ex: New file name = maven
+5. Change permissions
+	sudo chmod 777 -R maven
+6. Setup maven path under global level (Root user) by creating one file
+Path - cd /etc/profile.d 
+vi path.sh
+
+MAVEN_HOME=/opt/maven
+expoprt MAVEN_HOME
+PATH=$PATH:$MAVEN_HOME/bin
+export PATH
+7. Change permissions for that path file
+	sudo chmod 777 path.sh
+8. exit from root user
+9. Check maven version by
+	mvn --version
